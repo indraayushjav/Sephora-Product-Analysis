@@ -1,5 +1,10 @@
 # Sephora-Product-Analysis
 
+## Project Overview
+
+**Goal**: The project goal is to predict whether a Sepjora product should be recommended based on its features.
+**Database**: [kaggle[(https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews/data)
+
 ```python
 import numpy as np
 import pandas as pd
