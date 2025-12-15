@@ -9,7 +9,7 @@
 1. Set up database
 2. Exploratory Data Analysis (EDA)
 3. Visualizations
-4. Modeling
+
 
 
 ## 1. Database Setup
