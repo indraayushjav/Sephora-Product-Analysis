@@ -169,7 +169,7 @@ plt.show()
 
 ## 3. Visualizations
 
-### a. Average price and Rating by Product Category
+### Average price and Rating by Product Category
 
 ```python
 dfg = df.groupby(['secondary_category'])[['price_usd','rating']].mean().sort_values('price_usd',ascending =False).reset_index()
@@ -191,7 +191,7 @@ axes[1].tick_params(axis='x', rotation=90)
 
 >_From this plot we can see that *Value & Gift Sets* is the most expensive category although it is not the highest rated category. On the other hand we can see that *High-Tech Tools, Cleansers, Shop by Concern, Mini Size, Lip Balms* are highly rated categories and are on the cheaper side. This means that customers usually buy products they use daily or to treat specific concerns._
 
-### b. Analysis on Top Brands
+
 
 
 
